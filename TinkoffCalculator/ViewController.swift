@@ -81,9 +81,9 @@ class ViewController: UIViewController {
         }
         if buttonText == ","{
             if displayResult.text!.contains("e"){
-                displayResult.text = "0,"
+              displayResult.text = "0,"
             }
-            else if displayResult.text!.contains(","){
+            if displayResult.text!.contains(","){
                 displayResult.text = displayResult.text!
             }
             else{

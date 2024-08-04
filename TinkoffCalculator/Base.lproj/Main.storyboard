@@ -141,7 +141,6 @@
                                 <buttonConfiguration key="configuration" style="filled" title="," cornerStyle="capsule"/>
                                 <connections>
                                     <action selector="buttonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9eg-it-q6Y"/>
-                                    <action selector="numKomma:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3aH-eI-Uhv"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Obd-Qr-wpD">
